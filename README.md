@@ -21,3 +21,6 @@
 
 ### 📜 Microsoft Certificate
 - [View Certificate](MicrosoftCertificate.pdf)
+## 🏆 Achievements
+
+![Microsoft Learn Badge](MicrosoftCertificate.png)
